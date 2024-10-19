@@ -75,5 +75,8 @@
     "lodash": "^4.17.20",
     "react-transition-group": "^4.4.1",
     "styled-system": "^5.1.5"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
